@@ -45,4 +45,3 @@ Future Improvements:
 Author:
 Sudeep Kiran
 Data Analyst | Python | Power BI | SQL
-(GitHub & LinkedIn links can go here)
