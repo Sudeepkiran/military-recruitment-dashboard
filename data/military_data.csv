@@ -1,0 +1,17 @@
+Year,Branch,Recruits,Attrition Rate (%),Avg Training Cost ($),Region
+2020,Army,15000,7.8,12000,East
+2020,Navy,14000,6.2,11500,West
+2020,Air Force,13000,5.5,13000,South
+2020,Marines,9000,9.3,11000,North
+2021,Army,15500,8.0,12200,East
+2021,Navy,14500,6.5,11800,West
+2021,Air Force,13500,5.7,13300,South
+2021,Marines,9500,9.6,11200,North
+2022,Army,16000,7.9,12500,East
+2022,Navy,15000,6.3,12000,West
+2022,Air Force,14000,5.6,13500,South
+2022,Marines,9700,9.4,11300,North
+2023,Army,16500,8.1,12700,East
+2023,Navy,15200,6.7,12200,West
+2023,Air Force,14500,5.8,13700,South
+2023,Marines,9800,9.5,11400,North
